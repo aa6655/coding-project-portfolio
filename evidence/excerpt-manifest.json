@@ -1,0 +1,138 @@
+{
+  "snapshot_date": "2026-10-15",
+  "hash_rule": "Excerpt body encoded as UTF-8 with LF line endings and a final newline. Original file hash uses the original bytes.",
+  "excerpts": [
+    {
+      "project": "csv-reconciliation",
+      "source_file": "reconcile/compare.py",
+      "line_start": 56,
+      "line_end": 67,
+      "source_file_sha256": "9d29f2c064a612b4b69c55e8feac45cb2edac32f44a10b496b5eb6e6f81015b0",
+      "excerpt_sha256_lf": "ee34cee4d81caee54874f8d959eded1ad67763db24e306eff4eef4fa4fda2913",
+      "lines": 12
+    },
+    {
+      "project": "csv-reconciliation",
+      "source_file": "reconcile/compare.py",
+      "line_start": 70,
+      "line_end": 81,
+      "source_file_sha256": "9d29f2c064a612b4b69c55e8feac45cb2edac32f44a10b496b5eb6e6f81015b0",
+      "excerpt_sha256_lf": "b46e9de3dadf5105b1580df38d3f96bc2987ae58d09cd767a7393fa7fc6fa1a2",
+      "lines": 12
+    },
+    {
+      "project": "csv-reconciliation",
+      "source_file": "reconcile/report.py",
+      "line_start": 37,
+      "line_end": 65,
+      "source_file_sha256": "f68d24fd508c7ff9daa67b00013b2c729cf8af2e2f054dff6d58c68ff66c61ce",
+      "excerpt_sha256_lf": "19597c45ebd6db27fb9a2fdc143ce3bc18a1813735c0d3a1f2d3c659f53c152f",
+      "lines": 29
+    },
+    {
+      "project": "wq-backtest-workbench",
+      "source_file": "engine/consultant_backtester/services/task_control.py",
+      "line_start": 16,
+      "line_end": 23,
+      "source_file_sha256": "87065d31a28e618a8b86587576e346a1147052f2565f248a4da1afdb00806d5d",
+      "excerpt_sha256_lf": "a52deb4a0972dfb80325bf234efef419312bf114c3a1c2e3af3b0a343086d26f",
+      "lines": 8
+    },
+    {
+      "project": "wq-backtest-workbench",
+      "source_file": "engine/consultant_backtester/services/task_control.py",
+      "line_start": 37,
+      "line_end": 45,
+      "source_file_sha256": "87065d31a28e618a8b86587576e346a1147052f2565f248a4da1afdb00806d5d",
+      "excerpt_sha256_lf": "d90e1fcef286d241fccfe7bb0710fd8a22713a2c34dc51b870654d7a94aefbb9",
+      "lines": 9
+    },
+    {
+      "project": "wq-backtest-workbench",
+      "source_file": "engine/consultant_backtester/services/task_control.py",
+      "line_start": 51,
+      "line_end": 58,
+      "source_file_sha256": "87065d31a28e618a8b86587576e346a1147052f2565f248a4da1afdb00806d5d",
+      "excerpt_sha256_lf": "7aad28ec1a09e229c0fdb48154df43f6aac90c0378b32e3c501cadf6378c55e2",
+      "lines": 8
+    },
+    {
+      "project": "wq-backtest-workbench",
+      "source_file": "engine/consultant_backtester/services/task_control.py",
+      "line_start": 60,
+      "line_end": 65,
+      "source_file_sha256": "87065d31a28e618a8b86587576e346a1147052f2565f248a4da1afdb00806d5d",
+      "excerpt_sha256_lf": "294803c1fcafd91694e04657aced7caa94959da617abedba64eeeed3d38095d5",
+      "lines": 6
+    },
+    {
+      "project": "wq-backtest-workbench",
+      "source_file": "engine/consultant_backtester/services/task_control.py",
+      "line_start": 99,
+      "line_end": 112,
+      "source_file_sha256": "87065d31a28e618a8b86587576e346a1147052f2565f248a4da1afdb00806d5d",
+      "excerpt_sha256_lf": "28304863dc1d7fb71745aecc2ce006151edee82f76cd1d638fbb9e157b5abfd2",
+      "lines": 14
+    },
+    {
+      "project": "wq-dataset-catalog",
+      "source_file": "scripts/catalog_db.py",
+      "line_start": 407,
+      "line_end": 495,
+      "source_file_sha256": "4f8c70372eb3c21373ccf604209dcabf6aee7200b6f94b83c626c88f09351dd0",
+      "excerpt_sha256_lf": "1d13e291abbbaedcc74241c77ff54278101ab0dc8449e1f5c4f729c03b43e95e",
+      "lines": 89
+    },
+    {
+      "project": "wq-dataset-catalog",
+      "source_file": "tests/test_catalog.py",
+      "line_start": 18,
+      "line_end": 35,
+      "source_file_sha256": "7cdf00fdab2943e666841a5d9dceabc7935e0478aed6c8a453ee09b37f380293",
+      "excerpt_sha256_lf": "62b094e15523419869fa4070cee2afeb11869744ec1e7efc0947ff8de0907a4f",
+      "lines": 18
+    },
+    {
+      "project": "wq-alpha-manager",
+      "source_file": "backend/main.py",
+      "line_start": 102,
+      "line_end": 141,
+      "source_file_sha256": "cbe9a6c3145628f0840fa2c449d6d0fd1d569b7f680c8b31c04151d23acdaf37",
+      "excerpt_sha256_lf": "da90962ac28a89b50c917eb074a588c13da93b6c936054b289bf397d6b05a083",
+      "lines": 40
+    },
+    {
+      "project": "wq-alpha-manager",
+      "source_file": "frontend/src/App.tsx",
+      "line_start": 81,
+      "line_end": 86,
+      "source_file_sha256": "db0972490bd1dce059d71d81c6d716fda327d42a64a2529e537cf8fa1e5bc82a",
+      "excerpt_sha256_lf": "2a8a2af6b8a2204f7cfadc6a2dfde4254472f135e56bccb577a3180c72a6633c",
+      "lines": 6
+    },
+    {
+      "project": "explorerpatcher-source-review",
+      "source_file": "ep_setup/ep_setup.c",
+      "line_start": 590,
+      "line_end": 614,
+      "source_file_sha256": "a9509edb920045133f77647a8bc8a0edfd2a29607b2b8803746a148ecb49dd4e",
+      "excerpt_sha256_lf": "681720e7cdb6472730e8bf75c61e0edafd20ccdfcb55115aaf1bccb5de2b8bcd",
+      "lines": 25,
+      "upstream_commit": "b93337a98bdd5dbb4a6c33ea2c33143dbd835341",
+      "upstream_url": "https://github.com/valinet/ExplorerPatcher/blob/b93337a98bdd5dbb4a6c33ea2c33143dbd835341/ep_setup/ep_setup.c",
+      "license": "GPL-2.0"
+    },
+    {
+      "project": "explorerpatcher-source-review",
+      "source_file": "ep_setup/ep_setup.c",
+      "line_start": 636,
+      "line_end": 649,
+      "source_file_sha256": "a9509edb920045133f77647a8bc8a0edfd2a29607b2b8803746a148ecb49dd4e",
+      "excerpt_sha256_lf": "8c20951bbeb10d8ec6df8ebc441c11924b8032d51927641e867e865f680d8ca4",
+      "lines": 14,
+      "upstream_commit": "b93337a98bdd5dbb4a6c33ea2c33143dbd835341",
+      "upstream_url": "https://github.com/valinet/ExplorerPatcher/blob/b93337a98bdd5dbb4a6c33ea2c33143dbd835341/ep_setup/ep_setup.c",
+      "license": "GPL-2.0"
+    }
+  ]
+}
