@@ -111,28 +111,31 @@
       "lines": 6
     },
     {
-      "project": "explorerpatcher-source-review",
-      "source_file": "ep_setup/ep_setup.c",
-      "line_start": 590,
-      "line_end": 614,
-      "source_file_sha256": "a9509edb920045133f77647a8bc8a0edfd2a29607b2b8803746a148ecb49dd4e",
-      "excerpt_sha256_lf": "681720e7cdb6472730e8bf75c61e0edafd20ccdfcb55115aaf1bccb5de2b8bcd",
-      "lines": 25,
-      "upstream_commit": "b93337a98bdd5dbb4a6c33ea2c33143dbd835341",
-      "upstream_url": "https://github.com/valinet/ExplorerPatcher/blob/b93337a98bdd5dbb4a6c33ea2c33143dbd835341/ep_setup/ep_setup.c",
-      "license": "GPL-2.0"
+      "project": "reversible-file-organizer",
+      "source_file": "organizer/engine.py",
+      "line_start": 43,
+      "line_end": 57,
+      "source_file_sha256": "9bf1f151746c94dafe877ca529070a8b3138f87806a386389ec421957d533c06",
+      "excerpt_sha256_lf": "8197edf51836a432e601773e2bd9bdae30c3d337cb4b597f90ea7b904a47eb19",
+      "lines": 15
     },
     {
-      "project": "explorerpatcher-source-review",
-      "source_file": "ep_setup/ep_setup.c",
-      "line_start": 636,
-      "line_end": 649,
-      "source_file_sha256": "a9509edb920045133f77647a8bc8a0edfd2a29607b2b8803746a148ecb49dd4e",
-      "excerpt_sha256_lf": "8c20951bbeb10d8ec6df8ebc441c11924b8032d51927641e867e865f680d8ca4",
-      "lines": 14,
-      "upstream_commit": "b93337a98bdd5dbb4a6c33ea2c33143dbd835341",
-      "upstream_url": "https://github.com/valinet/ExplorerPatcher/blob/b93337a98bdd5dbb4a6c33ea2c33143dbd835341/ep_setup/ep_setup.c",
-      "license": "GPL-2.0"
+      "project": "reversible-file-organizer",
+      "source_file": "organizer/engine.py",
+      "line_start": 60,
+      "line_end": 87,
+      "source_file_sha256": "9bf1f151746c94dafe877ca529070a8b3138f87806a386389ec421957d533c06",
+      "excerpt_sha256_lf": "66f4f10d348acf86c82d4e1393d251def7e0acf0c1f2d5cb312c8dd21f4c5e18",
+      "lines": 28
+    },
+    {
+      "project": "reversible-file-organizer",
+      "source_file": "organizer/windows_fs.py",
+      "line_start": 204,
+      "line_end": 234,
+      "source_file_sha256": "e46bffeec64c897650a39acf26cfd5e669a59f19c2c4196a3dab1cf774cacf05",
+      "excerpt_sha256_lf": "98b559300553c8fb883567f42373aafc2f0ab00ac21ea540e23943587d56cdc4",
+      "lines": 31
     }
   ]
 }
